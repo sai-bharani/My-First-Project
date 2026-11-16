@@ -25,3 +25,7 @@ Installation
    
 Purpose
 This project demonstrates the use of Python and database management in a hospital management application.
+
+Credits and Attribution
+Original Developer: Tushar Borole
+Repository maintained by: Sai Bharani
